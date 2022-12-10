@@ -1,4 +1,4 @@
-Entity,Code,Year,Birth rate - Sex: all - Age: all - Variant: estimates,Death rate - Sex: all - Age: all - Variant: estimates,Population - Sex: all - Age: all - Variant: estimates,Continent
+Entity,Code,Year,Birth rate,Death rate,Population,Continent
 Abkhazia,OWID_ABK,2015,,,,Asia
 Afghanistan,AFG,1950,48.866,37.945,7480464,
 Afghanistan,AFG,1951,49.147,37.329,7571542,
